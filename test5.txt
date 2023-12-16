@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 test5 from computer
+=======
+test5fromanothercomputer
+>>>>>>> cbfec4ca928e4b871ec0236cb37086f8e9f50ee6
